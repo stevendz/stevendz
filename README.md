@@ -28,9 +28,9 @@ Dart | JavaScript | C#
 👨‍💻 I BUILD beautiful and intuitive apps  
 
 👨‍🏫 Just as much as I love IMPROVEMENT, I also love HELPING everyone on their way  
-<!--
+
 🎥 Making VIDEOS on YouTube is a nice pastime for me (and will support others)
--->
+
 ### You know you’re a programmer ... 🚀
 – when you spend a day to find the problem and you fix it with one line of code.
 
