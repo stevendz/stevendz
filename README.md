@@ -1,9 +1,8 @@
 ## ❤ to Build - Life is better when you’re smiling!
 
-Hi, I'm Steven - a **mobile developer and engineer** from Hamburg.   
-I fell in love with Flutter over one year ago now and have spent more than 700 hours in studying this framework. 
-My working principle is learning by doing.   
-Always up for a discussion on the newest mobile framworks and trends with a cold beer. 🍻
+Hi, I'm Steven - a **mobile developer and engineer** from Hamburg. I fell in love with Flutter over one year ago now and have spent more than 700 hours in studying this framework.   
+To deepen my technical knowledge, I completed the 'Neue Fische' Bootcamp and gained over 540 hours of experience within the MERN-stack.   
+There is no challenge I am afraid of and I love to reach my limits, just to exceed them the next day. A day without improvement can't be a successful day.
 
 ### I work on ... 💻
 Flutter | React.js | Vue.js
@@ -11,6 +10,15 @@ Flutter | React.js | Vue.js
 Firebase | Google Cloud | MongoDB
 
 Dart | JavaScript | C#
+
+### I am always up for ... 🍻
+- a discussion on the newest mobile framworks and trends
+
+- interesting and unique pitch-ideas
+
+- a way to improve the world or myself
+
+- or just some cold beers and nice smalltalk
 
 ### My absolute favorites ... 💖
 🦄 I love CODING  
