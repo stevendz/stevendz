@@ -5,12 +5,22 @@ I fell in love with Flutter over one year ago now and have spent more than 700 h
 My working principle is learning by doing.   
 Always up for a discussion on the newest mobile framworks and trends with a cold beer. 🍻
 
-### I work on .. 💻
-> Flutter . React.js . Vue.js
+### I work on ... 💻
+Flutter | React.js | Vue.js
 
-> Firebase . Google Cloud . MongoDB
+Firebase | Google Cloud | MongoDB
 
-> Dart . JavaScript . C#
+Dart | JavaScript | C#
+
+### My absolute favorites ... 💖
+🦄 I love CODING  
+
+👨‍💻 I BUILD beautiful and intuitive apps  
+
+👨‍🏫 Just as much as I love IMPROVEMENT, I also love HELPING everyone on their way  
+
+🎥 Making VIDEOS on YouTube is a nice pastime for me (and will help others)
+
 
 <!--
 **stevendz/stevendz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
