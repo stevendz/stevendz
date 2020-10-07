@@ -12,13 +12,13 @@ Firebase | Google Cloud | MongoDB
 Dart | JavaScript | C#
 
 ### I am always up for ... 🍻
-– a discussion on the newest mobile framworks and trends
+– a discussion on the newest mobile framworks and trends.
 
-– interesting and unique pitch-ideas
+– interesting and unique pitch-ideas.
 
-– a way to improve the world or myself
+– a way to improve the world or myself.
 
-– some cold beers and smalltalk with good friends or kind strangers
+– some cold beers and smalltalk with good friends or kind strangers.
 
 ### My absolute favorites ... 💖
 🦄 I love CODING  
