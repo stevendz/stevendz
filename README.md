@@ -38,5 +38,6 @@ Dart | JavaScript | C#
 – when you fix one bug and get 100 new ones.
 
 ### Ask me about ... 💭
-Whatever you want to know :)
-<img src="https://www.flaticon.com/svg/static/icons/svg/726/726623.svg" width="10%">  <img src="https://www.flaticon.com/svg/static/icons/svg/216/216554.svg" width="10%">
+Whatever you want to know :)   
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/726/726623.svg" width="5%"> | <img src="https://www.flaticon.com/svg/static/icons/svg/216/216554.svg" width="5%">
