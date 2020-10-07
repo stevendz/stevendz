@@ -19,20 +19,15 @@ Dart | JavaScript | C#
 
 👨‍🏫 Just as much as I love IMPROVEMENT, I also love HELPING everyone on their way  
 
-🎥 Making VIDEOS on YouTube is a nice pastime for me (and will help others)
+🎥 Making VIDEOS on YouTube is a nice pastime for me (and will support others)
 
+### Ask me about ... 💭
+Whatever you want to know :)
+> contact@stevendz.de
 
-<!--
-**stevendz/stevendz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### You know you’re a programmer ... 🚀
+– when you spend a day to find the problem and you fix it with one line of code.
 
-Here are some ideas to get you started:
+– when your code works and you have no idea why.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+– when you fix one bug and get 100 new ones.
