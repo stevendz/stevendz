@@ -1,9 +1,10 @@
 ## ❤ to Build - Life is better when you’re smiling!
-
 Hi, I'm Steven - a **mobile developer and engineer** from Hamburg.  
 I fell in love with Flutter over one year ago now and have spent more than 700 hours in studying this framework.   
 To deepen my technical knowledge, I completed the 'Neue Fische' Bootcamp and gained over 540 hours of experience within the MERN-stack.   
 There is no challenge I am afraid of and I love to reach my limits, just to exceed them the next day. A day without improvement can't be a successful day.
+
+[<img src="https://www.flaticon.com/svg/static/icons/svg/726/726623.svg" width="5%">](mailto:contact@stevendz.de)  [<img src="https://www.flaticon.com/svg/static/icons/svg/216/216554.svg" width="5%">](https://youtube.com/stevendzionara)  [<img src="https://www.flaticon.com/svg/static/icons/svg/270/270819.svg" width="5%">](https://join.skype.com/invite/kLNzYJfD5T7i)  
 
 ### I work on ... 💻
 Flutter | React.js | Vue.js
@@ -40,5 +41,4 @@ Dart | JavaScript | C#
 ### Ask me about ... 💭
 Whatever you want to know :)   
 
-[<img src="https://www.flaticon.com/svg/static/icons/svg/726/726623.svg" width="5%">](mailto:contact@stevendz.de)  [<img src="https://www.flaticon.com/svg/static/icons/svg/216/216554.svg" width="5%">](https://youtube.com/stevendzionara)  [<img src="https://www.flaticon.com/svg/static/icons/svg/270/270819.svg" width="5%">](https://join.skype.com/invite/kLNzYJfD5T7i)
 
