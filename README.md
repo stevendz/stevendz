@@ -30,13 +30,13 @@ Dart | JavaScript | C#
 
 🎥 Making VIDEOS on YouTube is a nice pastime for me (and will support others)
 
-### Ask me about ... 💭
-Whatever you want to know :)
-> contact@stevendz.de
-
 ### You know you’re a programmer ... 🚀
 – when you spend a day to find the problem and you fix it with one line of code.
 
 – when your code works and you have no idea why.
 
 – when you fix one bug and get 100 new ones.
+
+### Ask me about ... 💭
+Whatever you want to know :)
+<img src="https://www.flaticon.com/svg/static/icons/svg/726/726623.svg" width="10%">  <img src="https://www.flaticon.com/svg/static/icons/svg/216/216554.svg" width="10%">
