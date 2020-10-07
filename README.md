@@ -40,5 +40,5 @@ Dart | JavaScript | C#
 ### Ask me about ... 💭
 Whatever you want to know :)   
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/726/726623.svg" width="5%">  <img src="https://www.flaticon.com/svg/static/icons/svg/216/216554.svg" width="5%">  <img src="https://www.flaticon.com/svg/static/icons/svg/270/270819.svg" width="5%">
+[<img src="https://www.flaticon.com/svg/static/icons/svg/726/726623.svg" width="5%">](contact@stevendz.de)  <img src="https://www.flaticon.com/svg/static/icons/svg/216/216554.svg" width="5%">  <img src="https://www.flaticon.com/svg/static/icons/svg/270/270819.svg" width="5%">
 
