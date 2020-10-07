@@ -1,5 +1,17 @@
 ## ❤ to Build - Life is better when you’re smiling!
 
+Hi, I'm Steven - a **mobile developer and engineer** from Hamburg.   
+I fell in love with Flutter over one year ago now and have spent more than 700 hours in studying this framework. 
+My working principle is learning by doing.   
+Always up for a discussion on the newest mobile framworks and trends with a cold beer. 🍻
+
+### I work on .. 💻
+> Flutter . React.js . Vue.js
+
+> Firebase . Google Cloud . MongoDB
+
+> Dart . JavaScript . C#
+
 <!--
 **stevendz/stevendz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
