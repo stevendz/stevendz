@@ -6,7 +6,7 @@ My solution-orientated mindset allows me to push and exceed my limits whilst thr
 
 ## [<img src="https://www.flaticon.com/svg/static/icons/svg/726/726623.svg" width="4%">](mailto:contact@stevendz.de)  [<img src="https://www.flaticon.com/svg/static/icons/svg/216/216554.svg" width="4%">](https://youtube.com/stevendzionara)  [<img src="https://www.flaticon.com/svg/static/icons/svg/270/270819.svg" width="4%">](https://join.skype.com/invite/kLNzYJfD5T7i) [<img src="https://www.flaticon.com/svg/static/icons/svg/2808/2808001.svg" width="4%">](https://github.com/stevendz/stevendz/blob/main/cv_steven_dzionara.pdf)  
 
-### My tech stack is ... 💻
+### My tech stack ... 💻
 Flutter | React.js | Vue.js
 
 Firebase | Google Cloud | MongoDB
