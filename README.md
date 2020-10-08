@@ -1,4 +1,4 @@
-## ❤ to Build - Life is better when you’re smiling!
+## Mobile Developer and Engineer!
 Hi, I'm Steven - a **mobile developer and engineer** from Hamburg.  
 I fell in love with Flutter over one year ago now and have spent more than 700 hours in studying this framework.   
 To deepen my technical knowledge, I completed the 'Neue Fische' Bootcamp and gained over 540 hours of experience within the MERN-stack. 
@@ -22,7 +22,7 @@ Dart | JavaScript | C#
 
 – some cold beers and smalltalk with good friends or kind strangers.
 
-### My absolute favorites ... 💖
+### My absolute favorites ... 🐰
 🦄 I love CODING  
 
 👨‍💻 I BUILD beautiful and intuitive apps  
