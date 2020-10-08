@@ -1,4 +1,4 @@
-## Mobile Developer and Engineer!
+## Fullstack mobile-developer with a passion for UI/UX!
 Hi, I'm Steven - a **mobile developer and engineer** from Hamburg.  
 I fell in love with Flutter over one year ago now and have spent more than 700 hours in studying this framework.   
 To deepen my technical knowledge, I completed the 'Neue Fische' Bootcamp and gained over 540 hours of experience within the MERN-stack. 
