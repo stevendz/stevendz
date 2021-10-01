@@ -1,7 +1,5 @@
 ## Fullstack mobile-developer with a passion for UI/UX!
 
-## [<img src="https://www.flaticon.com/svg/static/icons/svg/726/726623.svg" width="4%">](mailto:contact@stevendz.de)  [<img src="https://www.flaticon.com/svg/static/icons/svg/216/216554.svg" width="4%">](https://youtube.com/stevendzcode)  [<img src="https://www.flaticon.com/svg/static/icons/svg/270/270819.svg" width="4%">](https://join.skype.com/invite/kLNzYJfD5T7i) [<img src="https://www.flaticon.com/svg/static/icons/svg/2808/2808001.svg" width="4%">](https://github.com/stevendz/stevendz/blob/main/cv_steven_dzionara.pdf)  
-
 ### Currently working at ... 🛸
 phntm.xyz
 
