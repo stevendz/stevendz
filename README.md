@@ -10,6 +10,9 @@ Firebase | Google Cloud | MongoDB
 
 Dart | JavaScript | C#
 
+### My talks ... 🤓
+Navigator 2.0 infused Flutter web ([slides](https://github.com/stevendz/stevendz/blob/main/flutter_web_talk.pdf))
+
 ### I am always up for ... 🍻
 – a discussion on the newest mobile framworks and trends.
 
